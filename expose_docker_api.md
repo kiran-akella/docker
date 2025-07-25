@@ -5,7 +5,7 @@
 ### Verify the status of docker service using
 
 ```bash
-sudo docker status docker.service
+sudo systemctl status docker.service
 ```
 
 # output:
